@@ -1,0 +1,18 @@
+{
+    "typescript.format.enabled": true,
+    "intelephense.format.enabled": true,
+    "tsserver.log": "verbose",
+    "coc.preferences.formatOnSaveFiletypes": [
+        "scala",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "js",
+        "jsx",
+        "ts",
+        "tsx",
+        "rust",
+        "php"
+    ]
+}

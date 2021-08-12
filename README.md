@@ -1,6 +1,5 @@
 # One more dotfiles repository
-==========
-
+---------
 Personal for my linux systems, will probably work fine on MacOS too ;)
 
 ## Installation
